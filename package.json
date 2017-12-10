@@ -1,0 +1,12 @@
+{
+  "name": "electron-sample",
+  "version": "1.0.0",
+  "description": "Electronを使って何か作るよ。",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "devtron": "^1.4.0"
+  }
+}
